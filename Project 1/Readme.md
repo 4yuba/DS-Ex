@@ -1,1 +1,1 @@
-# Stacked Bar Charts Products A & B
+ Stacked bar charts vizualization of Products A & B sales
