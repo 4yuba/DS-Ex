@@ -1,3 +1,3 @@
 2020 US presidential election data vizualized with bokeh and plotted with a cloropleth display
 
-Hosted website link: https://merry-empanada-e12d5b.netlify.app/
+Website link: https://merry-empanada-e12d5b.netlify.app/
