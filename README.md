@@ -1,2 +1,1 @@
-# M2M Projects
-* Series of Data science, Machine learning & Artificial intelligence mini projects
+# Data Science and Machine Learning - 2
