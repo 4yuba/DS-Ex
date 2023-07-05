@@ -1,1 +1,1 @@
-# Data Science 2 and Intro to Machine Learning 
+# Data Science II and Intro to Machine Learning 
