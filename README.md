@@ -1,1 +1,1 @@
-# Series of mini Data Science and introduction Machine Learning projects/exercises - 2
+# Data Science II and Intro to Machine Learning 
