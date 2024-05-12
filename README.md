@@ -1,1 +1,1 @@
-# Series of mini Data Science and Machine Learning learning projects
+## Series of mini Data Science and Machine Learning learning projects ##
